@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ONE Resto</string>
+    <string name="pilih_menu">Pilih Menu:</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="pilih_sekarang">Pilih Sekarang</string>
+    <string name="nama_nim">ONE_1202154320</string>
+    <string-array name="meja">
+        <item>Pilih Meja</item>
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+    </string-array>
+    <string name="luti">Roti, Ikan, Abon</string>
+    <string name="bigor">Mie, Sayuran, kecap</string>
+    <string name="miegoreng">Mie telur, Telur, Sosis, Sayuran</string>
+    <string name="mierebus">Mie telur, Telur, Daging, Sayuran</string>
+    <string name="naskam">Nasi, Kecap, Telur, Ikan teri, Daging ayam</string>
+    <string name="nasea">Nasi, Kecap, Seafood, Sayuran</string>
+    <string name="satepadang">Daging sapi, Kuah padang, Bawang goreng</string>
+    <string name="targor">Mie telur, Daging ayam, Bawang goreng</string>
+    <string name="tarbap">Mie telur, Daging ayam, Bawang goreng</string>
+
+
+</resources>
